@@ -1,4 +1,7 @@
 # realtime_spotify_data_analysis
+complete pipeline:
+![WhatsApp Image 2024-07-04 at 21 13 27_f4d6c6d3](https://github.com/user-attachments/assets/9e478432-81d2-4475-9e2a-1bd419d6e06d)
+
 #Problem: Spotify faces challenges in managing large volumes of data generated from its 
 streaming service, including song details, user activity, and interaction data. The main 
 issues include data fragmentation, scalability, and the need for real-time analytics. 
