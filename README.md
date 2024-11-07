@@ -60,3 +60,5 @@ By implementing this data analytics platform on AWS, Spotify can use its data to
 operations, enhance user experiences, and make smarter decisions and helping Spotify 
 refine content and personalize user recommendations, ultimately boosting satisfaction and 
 competitive edge in the music streaming market
+![WhatsApp Image 2024-07-05 at 09 38 30_656c182d](https://github.com/user-attachments/assets/e51714d8-9c31-49ec-8d07-9d4b5143b260)
+
